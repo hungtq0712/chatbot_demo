@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Đơn Giản</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 Chatbot Đơn Giản</h1>
+            <p>Hỏi/trả lời • Lưu/Xem lịch sử • Tạo chat mới</p>
+        </header>
+
+        <div class="main-content">
+            <!-- Bảng điều khiển bên trái -->
+            <div class="control-panel">
+                <div class="panel-header">
+                    <h3>📋 Điều khiển</h3>
+                </div>
+                <div class="panel-content">
+                    <button id="new-chat-btn" class="control-btn">
+                        ➕ Tạo chat mới
+                    </button>
+                    <div class="history-section">
+                        <h4>Lịch sử chat:</h4>
+                        <div id="history-list">
+                            <!-- Danh sách lịch sử sẽ được tải ở đây -->
+                            <div class="no-history">Chưa có lịch sử</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bảng chat bên phải -->
+            <div class="chat-panel">
+                <div class="chat-header">
+                    <h3>💬 Chat với Bot</h3>
+                    <div class="chat-info">
+                        <span id="chat-status">Sẵn sàng</span>
+                        <span id="message-count">0 tin nhắn</span>
+                    </div>
+                </div>
+
+                <div class="chat-messages" id="chat-messages">
+                    <!-- Tin nhắn sẽ hiển thị ở đây -->
+                    <div class="message bot-message">
+                        👋 Xin chào! Hãy bắt đầu trò chuyện
+                    </div>
+                </div>
+
+                <div class="chat-input-area">
+                    <input type="text" id="message-input"
+                           placeholder="Nhập câu hỏi của bạn...">
+                    <button id="send-btn">Gửi</button>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>FastAPI Backend • Chatbot Đơn Giản</p>
+        </footer>
+    </div>
+
+    <script src="../static/script.js"></script>
+</body>
+</html>

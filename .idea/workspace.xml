@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8cffa2-d349-4957-93aa-160a32ecf767" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="388bxZVdDjgehwX5cu3ShKIshdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chat_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chat_schemas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entity_extractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.handle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modelsAI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reply.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainmodel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/demoFastAPI/chatbot&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\demoFastAPI\chatbot" />
+      <recent name="D:\Python\demoFastAPI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\demoFastAPI\chatbot\responses" />
+      <recent name="D:\Python\demoFastAPI\chatbot\responses\modelsAI" />
+      <recent name="D:\Python\demoFastAPI\chatbot\response" />
+      <recent name="D:\Python\demoFastAPI\chatbot" />
+      <recent name="D:\Python\demoFastAPI" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8cffa2-d349-4957-93aa-160a32ecf767" name="Changes" comment="" />
+      <created>1768184393155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768184393155</updated>
+      <workItem from="1768184394169" duration="9491000" />
+      <workItem from="1768204761467" duration="2418000" />
+      <workItem from="1768271228073" duration="4389000" />
+      <workItem from="1768277069313" duration="11000" />
+      <workItem from="1768277101970" duration="5262000" />
+      <workItem from="1768285476658" duration="3593000" />
+      <workItem from="1768347867548" duration="6465000" />
+      <workItem from="1768359710053" duration="2974000" />
+      <workItem from="1768364901795" duration="2676000" />
+      <workItem from="1768376779150" duration="2071000" />
+      <workItem from="1768379427633" duration="8293000" />
+      <workItem from="1768387970054" duration="691000" />
+      <workItem from="1768420421726" duration="3272000" />
+      <workItem from="1768408780975" duration="1750000" />
+      <workItem from="1768415842227" duration="350000" />
+      <workItem from="1768416644430" duration="56000" />
+      <workItem from="1768416993795" duration="161000" />
+      <workItem from="1768433143045" duration="864000" />
+      <workItem from="1768434568221" duration="7680000" />
+      <workItem from="1768442778153" duration="3207000" />
+      <workItem from="1768446478637" duration="2573000" />
+      <workItem from="1768449359879" duration="1252000" />
+      <workItem from="1768464777258" duration="4096000" />
+      <workItem from="1768478453555" duration="299000" />
+      <workItem from="1768479109263" duration="4751000" />
+      <workItem from="1768485143387" duration="1028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/db.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chatbot/models.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chatbot/schemas.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chatbot/responses/handle.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chatbot/responses/handle.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chatbot/responses/handle.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demoFastAPI$message.coverage" NAME="message Coverage Results" MODIFIED="1768483825223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot/responses" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$main.coverage" NAME="main Coverage Results" MODIFIED="1768468840635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$modelsAI.coverage" NAME="modelsAI Coverage Results" MODIFIED="1768358000468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$chat_model.coverage" NAME="chat_model Coverage Results" MODIFIED="1768355209106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$model.coverage" NAME="model Coverage Results" MODIFIED="1768359266679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$entity_extractor.coverage" NAME="entity_extractor Coverage Results" MODIFIED="1768485456717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot/responses" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$trainmodel.coverage" NAME="trainmodel Coverage Results" MODIFIED="1768449992208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot/responses/modelsAI" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$conversation.coverage" NAME="conversation Coverage Results" MODIFIED="1768275733580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$reply.coverage" NAME="reply Coverage Results" MODIFIED="1768357615927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$chat_schemas.coverage" NAME="chat_schemas Coverage Results" MODIFIED="1768278910870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1768440328879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot/response/modelsAI" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$handle.coverage" NAME="handle Coverage Results" MODIFIED="1768485889353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatbot/responses" />
+    <SUITE FILE_PATH="coverage/demoFastAPI$db.coverage" NAME="db Coverage Results" MODIFIED="1768355390434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>

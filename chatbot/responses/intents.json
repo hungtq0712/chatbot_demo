@@ -1,0 +1,42 @@
+{
+  "intents": [
+    {
+      "tag": "hi",
+      "responses": [
+        "Xin chào!",
+        "Rất vui được gặp lại bạn!",
+        "Chào bạn, tôi có thể giúp gì cho bạn?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "responses": [
+        "Buồn khi phải chia tay bạn :(",
+        "Hẹn gặp lại bạn sau nhé!",
+        "Tạm biệt!"
+      ]
+    },
+    {
+      "tag": "name",
+      "responses": [
+        "Tôi là chatbot AI!",
+        "Bạn có thể gọi tôi là Trợ lý Ảo!",
+        "Tôi là trợ lý ảo, rất vui được làm quen!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "responses": [
+        "Không có gì đâu!",
+        "Rất sẵn lòng giúp đỡ bạn!",
+        "Luôn sẵn sàng hỗ trợ bạn!"
+      ]
+    },
+    {
+      "tag": "help",
+      "responses": [
+        "Cú pháp Nhập/xuất  ... sản phẩm .... nhà sản xuất .... \n hoặc kiểm tra số lượng sản phẩm ....."
+      ]
+    }
+  ]
+}
