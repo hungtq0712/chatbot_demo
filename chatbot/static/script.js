@@ -199,7 +199,7 @@ function loadCurrentChat() {
         updateMessageCount();
     } else {
         // Chat mới
-        addMessage('bot', '👋 Xin chào! Hãy bắt đầu trò chuyện');
+       // addMessage('bot', '👋 Xin chào! Hãy bắt đầu trò chuyện');
     }
 }
 
