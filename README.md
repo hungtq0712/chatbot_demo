@@ -1,2 +1,3 @@
-# chatbot_demo
-demo chatbot
+demo chatbot hien tai -phục vụ task chào hỏi/ tên
+
+chạy chatbot/chatbot/main fastapi dev main.py để kết nối backend chạy chatbot/template/index.html để hiển thị kết quả
